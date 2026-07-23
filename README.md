@@ -1,0 +1,8 @@
+SoftArmy Social Profile
+This is the source code for my personal social profile website that I use in my Discord bio.
+Feel free to use it as inspiration or modify it for your own personal use. However, I do not provide free support for this project.
+If you're interested in a custom-designed profile page or would like me to build one for you, feel free to contact me on Discord. Custom work is a paid service.
+Discord: softarmy
+Or, if you want it a bit shorter:
+This repository contains the source code for my personal social profile website used in my Discord bio.
+I do not provide support for this project. If you're interested in a custom version or need assistance, feel free to DM me on Discord. Custom work is available for a fee.
